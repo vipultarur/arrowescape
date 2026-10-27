@@ -1,0 +1,8 @@
+# Template for Android release keystore credentials
+# Copy this file to android/key.properties and update values prior to publishing to Google Play Store.
+
+storePassword=YOUR_STORE_PASSWORD
+keyPassword=YOUR_KEY_PASSWORD
+keyAlias=upload
+storeFile=../upload-keystore.jks
+admobAppId=ca-app-pub-9155918242947466~7645590646
